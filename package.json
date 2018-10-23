@@ -8,12 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/joewalnes/reconnecting-websocket.git"
+    "url": "https://github.com/Scit/reconnecting-websocket.git"
   },
   "author": "Joe Walnes",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/joewalnes/reconnecting-websocket/issues"
-  },
-  "homepage": "https://github.com/joewalnes/reconnecting-websocket"
+  "license": "MIT"
 }
